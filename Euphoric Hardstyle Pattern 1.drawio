@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2020-06-14T14:58:20.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="h5ffpfsiiz-BeLLdPT0t" version="13.2.4" type="github"><diagram id="xE8kh47unp0ZR-aAJUwq" name="Page-1">7VvRcqM2FP0aPzaDJMD4MbazTadNZ7ueTdJHGWRgIyOPLGK7X1/JiBgibeKdhYBp85CgiwTSOVe6514mIzRb73/leJPcsYjQEXSi/QjNRxCOkSN/K8OhMLg+KAwxT6PCVDEs0n+INupxcZ5GZFvrKBijIt3UjSHLMhKKmg1zznb1bitG62/d4JgYhkWIqWl9SCORFNYAjk/2W5LGSflm4E+KO2tcdtYr2SY4YruKCd2M0IwzJoqr9X5GqMKuxKUY9+k7d18mxkkmzhmQ3ILo8eHxPp883E0huv722xP8BenHbMWhXDGJJAC6ybhIWMwyTG9O1ilneRYR9VhHtk59/mBsI41AGr8RIQ6aTZwLJk2JWFN9l+xT8Vi5/ls96srTrfleP/nYOOhGMU81ue+uv1wLy3lI3lh06UeYx0S8Bc4LS9K7CVsTwQ9yHCcUi/S5Pg+s/Sx+6XeiQl5oNn6AGf3cZ0xz/SaDqRMPCshdkgqy2ODj0ndyM9Yx148jXJD92wiaK9YDAu3Jh3pzd9oXwNe2pLInXNdpCSOEOvHeTM79sfRR1aj4r2qeHPjYasGD0ZkeXDloOnBh1D8XhgG4gt67buwFV2PvIz3ZN6C65puRok+u2rlnMiD9HHarlNIZo4wfx6JVEJIwlPat4OyJVO4sA8/1nGbQBs4JR402gBa4HXhlQdtvC+zAAPszjpqFd7WCdngjf+l7fmvwQudseL224AVm6LonfEsMhOXKRR3GOlwZy8grbLUJ0zTOZDOUSBFpnyocU7lJrvWNdRpFx9Pexls9AjRBhFuPjBOTBNcSGGFrDEDTw7nE35nmqdS/0Pm6GS4ZCLy4e3nCewYdE8uGQK3RYQZCfaLLN/pUwb7k8ioWRwSmVvvNX+o1WcjWG0qEIvOOUBYdLjAsmAzZooKNotZCAnDtMeEHCJoljKsRn2kePl1gNEHg/VBi46S9ODI2OKmeX86c5+tGccaOB2Fkw9mfg0+O8v4Vy0SdGfnT1q5AXscMoMDA9wPyq1FzeVJ5rLyf6vt2bj4mUSqn2adMyT0j2/fGNmHZXpYETWVZ6Bp19ubb4WoaD6LXaatFY46BSUZrGrN00ZrP+nit1p8tt+rPxQoUDxhVgs4VCjRF5H9NoVho6VykQFM4fmGUplksjbdyAirrul4sGoU78kgQuTa4A7hEfotwj89LpdqD22s4UnaCrCn1ugfWrEBeILCgh8CaWcwX8lzUw5yFyGX60CjOmAQr60nshwFZtparuKjrg9is6l4+zqY/d4/zxMB5RrFZT7zcRNwS97rPxM0M8fK92wJ05+6NWhYY3bo2AH7/XLtp5dEATn4Pix/o7XLoUEsfY1CnwlL3AGUS+CGFD9c8in8yEbcOe238k6XbstRVGXtxSfzYMY4g+0dr6/YCrX2kc83aouVrw1lUfd3QdKX2znACx7h/HydcOEBJZOLcuSJy//96/Q5FndeGXbMI2bmECnoooVxT3M85G7B4mvROPNnE/lClzqSvUsfMJG7xEenf07P1aNF1MAJn0kOBM8SKpolz9wLHrGgO5ku2CXeLYkU2T//OdLxX+Z8wdPMv</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-14T14:58:31.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="AFs6f1a7M-ZStUfn7rHZ" version="13.2.4" type="github">
+  <diagram id="xE8kh47unp0ZR-aAJUwq" name="Page-1">
+    <mxGraphModel dx="730" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hH1dXWXVu9WMB23AjIk2-1" target="hH1dXWXVu9WMB23AjIk2-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="80" width="160" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hH1dXWXVu9WMB23AjIk2-3" target="hH1dXWXVu9WMB23AjIk2-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="281.25" y="80" width="158.75" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-6" value="Arp + Vocal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="108.75" y="120" width="102.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-8" value="Pad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="108.75" y="200" width="102.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-11" value="Verse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-12" value="Pre Build Up" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="312.5" y="85" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-13" value="Vocal &lt;br&gt;+ &lt;br&gt;EQ incomplete Melody" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="312.5" y="120" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-14" value="Pad &lt;br&gt;+ &lt;br&gt;Chord Pluck" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="315" y="200" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-17" value="Build Up Drum" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="312.5" y="350" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hH1dXWXVu9WMB23AjIk2-20" target="hH1dXWXVu9WMB23AjIk2-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="80" width="157.5" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-21" value="Pre Chorus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="523.25" y="90" width="71" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-22" value="&amp;nbsp;Melody" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="511.25" y="120" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-23" value="Pad &lt;br&gt;+ &lt;br&gt;Chord Pluck" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="511.25" y="200" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-24" value="Rolling High BASS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="511.25" y="275" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="312.5" y="275" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="112.5" y="275" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-27" value="Reverse Stuff" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="312.5" y="430" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-28" value="Reverse Stuff" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="112.5" y="430" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-29" value="Clap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="511.25" y="350" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-30" value="Reverse Stuff" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="511.25" y="430" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="112.5" y="350" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="80" width="157.5" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-37" value="Build Up" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="710" y="90" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-40" value="Pad &lt;br&gt;+ &lt;br&gt;Chord Pluck&lt;br&gt;+&lt;br&gt;Noise Chord Pluck" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="706.25" y="200" width="107.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-41" value="Build Up Drum&lt;br&gt;+&lt;br&gt;Uplifter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="712.5" y="350" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-42" value="Reverse Stuff" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="712.5" y="430" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-43" value="Vocal &lt;br&gt;+ &lt;br&gt;EQ incomplete Melody" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="712.5" y="120" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="80" width="157.5" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-45" value="Drop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="910" y="90" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-46" value="&lt;br&gt;Noise Chord Pluck" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="906.25" y="200" width="107.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-47" value="Hard Kick&lt;br&gt;+&lt;br&gt;Kick" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="912.5" y="350" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-48" value="Reverse Stuff" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="912.5" y="430" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hH1dXWXVu9WMB23AjIk2-49" value="&amp;nbsp;Melody" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="912.5" y="120" width="95" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
