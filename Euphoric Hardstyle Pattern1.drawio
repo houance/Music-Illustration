@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-15T14:12:34.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="zrb-tK1Kopo59Z784-mY" version="13.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-15T14:16:45.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="R16vuzCKv7fcc-DvpPHE" version="13.2.4" type="github">
   <diagram id="4Rw6qwMlkPoy8yVHMZix" name="Page-1">
     <mxGraphModel dx="1063" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="241.25" y="40" width="158.75" height="360" as="geometry" />
+          <mxGeometry x="260" y="40" width="158.75" height="360" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-6" value="Pad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="68.75" y="160" width="102.5" height="50" as="geometry" />
@@ -23,40 +23,40 @@
           <mxGeometry x="100" y="50" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-8" value="Pre Build Up" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="272.5" y="45" width="95" height="30" as="geometry" />
+          <mxGeometry x="291.25" y="45" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-10" value="Pad &lt;br&gt;+ &lt;br&gt;Chord Pluck" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="275" y="160" width="95" height="50" as="geometry" />
+          <mxGeometry x="293.75" y="160" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-11" value="Build Up Drum" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="272.5" y="310" width="95" height="50" as="geometry" />
+          <mxGeometry x="291.25" y="310" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gogSmXasi4_Fke2GB7_I-13" target="gogSmXasi4_Fke2GB7_I-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="40" width="157.5" height="360" as="geometry" />
+          <mxGeometry x="478.75" y="40" width="157.5" height="360" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-14" value="Pre Chorus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="483.25" y="50" width="71" height="20" as="geometry" />
+          <mxGeometry x="522" y="50" width="71" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-15" value="&amp;nbsp;Melody" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="471.25" y="80" width="95" height="60" as="geometry" />
+          <mxGeometry x="510" y="80" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-16" value="Pad &lt;br&gt;+ &lt;br&gt;Chord Pluck" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="471.25" y="160" width="95" height="50" as="geometry" />
+          <mxGeometry x="510" y="160" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-17" value="Rolling High BASS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="471.25" y="235" width="95" height="50" as="geometry" />
+          <mxGeometry x="510" y="235" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="272.5" y="235" width="95" height="50" as="geometry" />
+          <mxGeometry x="291.25" y="235" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="72.5" y="235" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-22" value="Clap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="471.25" y="310" width="95" height="50" as="geometry" />
+          <mxGeometry x="510" y="310" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="72.5" y="310" width="95" height="50" as="geometry" />
@@ -65,88 +65,100 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="40" width="157.5" height="360" as="geometry" />
+          <mxGeometry x="696.25" y="40" width="157.5" height="360" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-26" value="Build Up" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="670" y="50" width="100" height="20" as="geometry" />
+          <mxGeometry x="726.25" y="50" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-27" value="Pad &lt;br&gt;+ &lt;br&gt;Chord Pluck&lt;br&gt;+&lt;br&gt;Noise Chord Pluck" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="666.25" y="160" width="107.5" height="130" as="geometry" />
+          <mxGeometry x="722.5" y="160" width="107.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-28" value="Build Up Drum&lt;br&gt;+&lt;br&gt;Uplifter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="672.5" y="310" width="95" height="50" as="geometry" />
+          <mxGeometry x="728.75" y="310" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="40" width="157.5" height="360" as="geometry" />
+          <mxGeometry x="913.75" y="40" width="157.5" height="360" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-32" value="Drop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="870" y="50" width="100" height="20" as="geometry" />
+          <mxGeometry x="943.75" y="50" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-33" value="&lt;br&gt;Noise Chord Pluck" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="866.25" y="160" width="107.5" height="130" as="geometry" />
+          <mxGeometry x="940" y="160" width="107.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-34" value="Hard Kick&lt;br&gt;+&lt;br&gt;Kick" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="872.5" y="310" width="95" height="50" as="geometry" />
+          <mxGeometry x="946.25" y="310" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-36" value="&amp;nbsp;Melody" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="872.5" y="80" width="95" height="60" as="geometry" />
+          <mxGeometry x="946.25" y="80" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-45" value="" style="endArrow=none;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;jumpSize=10;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="238.75" y="460" as="sourcePoint" />
-            <mxPoint x="397.5" y="450" as="targetPoint" />
+            <mxPoint x="261.25" y="470" as="sourcePoint" />
+            <mxPoint x="420" y="460" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-47" value="" style="endArrow=none;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;jumpSize=10;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="397.5" y="450" as="sourcePoint" />
-            <mxPoint x="437.5" y="430" as="targetPoint" />
+            <mxPoint x="420" y="460" as="sourcePoint" />
+            <mxPoint x="480" y="440" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-48" value="" style="endArrow=none;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;jumpSize=10;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="437.5" y="430" as="sourcePoint" />
-            <mxPoint x="637.5" y="440" as="targetPoint" />
+            <mxPoint x="480" y="440" as="sourcePoint" />
+            <mxPoint x="700" y="450" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-49" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="637.5" y="440" as="sourcePoint" />
-            <mxPoint x="797.5" y="460" as="targetPoint" />
+            <mxPoint x="700" y="450" as="sourcePoint" />
+            <mxPoint x="860" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="657.5" y="460" />
+              <mxPoint x="720" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-50" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="797.5" y="460" as="sourcePoint" />
-            <mxPoint x="837.5" y="430" as="targetPoint" />
+            <mxPoint x="860" y="470" as="sourcePoint" />
+            <mxPoint x="920" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="827.5" y="450" />
+              <mxPoint x="890" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-51" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="837.5" y="430" as="sourcePoint" />
-            <mxPoint x="997.5" y="430" as="targetPoint" />
+            <mxPoint x="920" y="440" as="sourcePoint" />
+            <mxPoint x="1080" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gogSmXasi4_Fke2GB7_I-52" value="Melody Tension&lt;br&gt;Line" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="187.5" y="430" width="109" height="20" as="geometry" />
+          <mxGeometry x="210" y="440" width="109" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kLrQgNppZm8dj1sVTHU1-1" value="Arp&lt;br&gt;+&lt;br&gt;Vocal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="80" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kLrQgNppZm8dj1sVTHU1-2" value="Vocal&lt;br&gt;+&lt;br&gt;Incomplete Melody" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="273.13" y="80" width="95" height="60" as="geometry" />
+          <mxGeometry x="291.88" y="80" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kLrQgNppZm8dj1sVTHU1-3" value="Vocal&lt;br&gt;+&lt;br&gt;Incomplete Melody" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="671.25" y="80" width="95" height="60" as="geometry" />
+          <mxGeometry x="727.5" y="80" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLrQgNppZm8dj1sVTHU1-6" value="Transition FX" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="325" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kLrQgNppZm8dj1sVTHU1-7" value="Transition FX" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="418.75" y="325" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kLrQgNppZm8dj1sVTHU1-8" value="Transition FX" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="636.25" y="325" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kLrQgNppZm8dj1sVTHU1-9" value="Transition FX" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="853.75" y="325" width="60" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
