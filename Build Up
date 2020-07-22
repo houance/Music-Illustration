@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T07:17:12.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="JCxwxaNrCZp8sRbElBjb" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-22T07:24:42.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="NCHkSyx8gbpu04Ph1gGc" version="13.4.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="731" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,11 +40,11 @@
         <mxCell id="m0RZPSVap7t2fpv9oxeb-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="520" y="360" width="160" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="m0RZPSVap7t2fpv9oxeb-15" value="Flitered Melody" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="m0RZPSVap7t2fpv9oxeb-15" value="Repeat Melody" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="400" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="m0RZPSVap7t2fpv9oxeb-16" value="Stab Chord" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="555" y="460" width="90" height="20" as="geometry" />
+          <mxGeometry x="555" y="450" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="m0RZPSVap7t2fpv9oxeb-18" value="Melody" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="580" y="340" width="40" height="20" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="180" y="520" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_SBC7PhoCTFk9qtBru0z-2" value="Pad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="520" width="40" height="20" as="geometry" />
+          <mxGeometry x="580" y="490" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_SBC7PhoCTFk9qtBru0z-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;arcSize=24;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="120" y="620" width="160" height="100" as="geometry" />
@@ -73,8 +73,23 @@
         <mxCell id="_SBC7PhoCTFk9qtBru0z-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="325" y="620" width="155" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_SBC7PhoCTFk9qtBru0z-9" value="Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="383" y="640" width="40" height="20" as="geometry" />
+        <mxCell id="_SBC7PhoCTFk9qtBru0z-10" value="Chord Pluck" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="530" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_SBC7PhoCTFk9qtBru0z-11" value="Arp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="565" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_SBC7PhoCTFk9qtBru0z-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="520" y="620" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_SBC7PhoCTFk9qtBru0z-13" value="Fliter Automation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="630" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_SBC7PhoCTFk9qtBru0z-14" value="Stereo Automation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="660" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_SBC7PhoCTFk9qtBru0z-15" value="Sidechain Automation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="690" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
