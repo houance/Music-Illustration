@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T16:30:46.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="rlFxgDLn7JpB-J4q_Gf4" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T16:33:29.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="1eztwDPvo3WRNLHSQ3i7" version="13.5.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="731" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,8 +49,8 @@
         <mxCell id="_SBC7PhoCTFk9qtBru0z-1" value="Crash/Impact 1/5 Bar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="127.5" y="522.5" width="145" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_SBC7PhoCTFk9qtBru0z-2" value="Pad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="580" y="490" width="40" height="20" as="geometry" />
+        <mxCell id="_SBC7PhoCTFk9qtBru0z-2" value="Pad Dark" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="555" y="490" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_SBC7PhoCTFk9qtBru0z-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;arcSize=24;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="120" y="620" width="160" height="100" as="geometry" />
