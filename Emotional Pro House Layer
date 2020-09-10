@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-09-08T15:50:58.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="3FHDN4kzLHuWX_Q-INqx" version="13.6.6" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">zZXdT8IwEMD/mj2abOv48FEmalQiCQ8+mroea0PXw1IY+NfbuY4xBkYTEV+W7XfXj/vdJfNInK1vNZ3zETKQXuiztUeuvTDskcA+C7ApQdS5LEGqBStRUIOJeAcHfUeXgsGikWgQpRHzJkxQKUhMg1GtMW+mTVE2T53TFFpgklDZps+CGV7Sftir+R2IlFcnB11XX0arZFfJglOG+Q4iQ4/EGtGUb9k6Blm4q7yU626ORLcX06DMdxa8Kv4wXbwNstXTy+w+GE5Xr/rC7bKicukKdpc1m8qAxqViUGwSeGSQc2FgMqdJEc1tyy3jJpMu7LYDbWB99J7Btno7NYAZGL2xKW5BGDlhbmJIJTCv/Qddx/iO++1C6nqebveutdgXZ+YHlsKWpZijZi1VtmjT9LEwGmcQo0RtiUJlMwdTIeUeolKkyn4mVhJYPigUCjuGVy6QCcaKYw42oG6R/zs9IP5eD/x2D6JDLThVB0irAyObH/pjQRV+MbL+34xsb09XdGBk/QO+yKl8RUd8TWhun49A28N7bmlRcG5pnZa0sVwms0rbf/PVP50v+1n/mD5jO393MvwA</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-10T13:26:59.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="w5_i45MknjMczLHpMyVD" version="13.6.9" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="731" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bnhKfsqBmvO_kJ1Efvbr-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="320" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bnhKfsqBmvO_kJ1Efvbr-2" value="Chord" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bnhKfsqBmvO_kJ1Efvbr-3" value="Mid Piano" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bnhKfsqBmvO_kJ1Efvbr-4" value="Mid Saw Lead" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bnhKfsqBmvO_kJ1Efvbr-5" value="Pluck Saw" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="480" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="160" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-2" value="Lead" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-3" value="Super Saw" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-4" value="Piano" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-5" value="Mono Mid Lead" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-6" value="White Noise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-7" value="Analog Lead" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="540" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-9" value="Bass" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-10" value="Overdrive Bass" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-11" value="Thin Bass" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="390" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-12" value="Rolling Bass" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-13" value="SAW Bass" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
