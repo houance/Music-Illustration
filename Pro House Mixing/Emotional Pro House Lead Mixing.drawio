@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T15:01:54.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Hlm6ll6UFkMNevsBcLv3" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T15:28:13.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ELcA8RsNTjKGAuW0L1Tz" version="13.7.1" type="github">
   <diagram id="Faa0M8up7OqQlo_6B9zI" name="Page-1">
     <mxGraphModel dx="731" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,8 +99,8 @@
         <mxCell id="64oR0bPsaAjInLj9MCpX-44" value="Limiter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="64oR0bPsaAjInLj9MCpX-48" value="Volume Control" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="338.75" y="1160" width="102.5" height="45" as="geometry" />
+        <mxCell id="64oR0bPsaAjInLj9MCpX-48" value="Balancer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="344.37" y="1160" width="91.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="64oR0bPsaAjInLj9MCpX-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="64oR0bPsaAjInLj9MCpX-51" target="64oR0bPsaAjInLj9MCpX-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -108,8 +108,14 @@
         <mxCell id="64oR0bPsaAjInLj9MCpX-51" value="Reverb &lt;br&gt;Send Channel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="340" y="725" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="_W28pvAoPQmRQDrURW4n-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oUm6JhOP6bCtAG8IZpWP-3" target="_W28pvAoPQmRQDrURW4n-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oUm6JhOP6bCtAG8IZpWP-3" value="SideChain" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_W28pvAoPQmRQDrURW4n-3" value="Peak Controler" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1240" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
