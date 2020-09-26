@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-26T13:35:13.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="EG0Rlo-xCgBruuflqkcx" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-26T13:39:06.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="q0yfLbAiYhVxX0GT-S8R" version="13.7.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="731" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,10 +13,10 @@
         <mxCell id="bnhKfsqBmvO_kJ1Efvbr-3" value="Mid Piano" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="340" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bnhKfsqBmvO_kJ1Efvbr-4" value="Mid Saw Lead" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bnhKfsqBmvO_kJ1Efvbr-4" value="Saw Lead 2x" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="410" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bnhKfsqBmvO_kJ1Efvbr-5" value="Pluck Saw" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bnhKfsqBmvO_kJ1Efvbr-5" value="Pluck Saw Lead" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="480" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2QCKLFelIW7-TGpqTmU-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -29,16 +29,16 @@
           <mxGeometry x="470" y="340" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2QCKLFelIW7-TGpqTmU-4" value="Piano" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="390" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="w2QCKLFelIW7-TGpqTmU-5" value="LD Magnatron" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="440" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="w2QCKLFelIW7-TGpqTmU-6" value="White Noise" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="490" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w2QCKLFelIW7-TGpqTmU-7" value="PL Orchid Drop" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-5" value="LD Magnatron" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="390" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-6" value="White Noise" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="540" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-7" value="PL Orchid Drop" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="440" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2QCKLFelIW7-TGpqTmU-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="320" width="160" height="220" as="geometry" />
@@ -46,16 +46,16 @@
         <mxCell id="w2QCKLFelIW7-TGpqTmU-9" value="Bass" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="300" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="w2QCKLFelIW7-TGpqTmU-10" value="Overdrive Bass" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-10" value="Agressive Bass" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="340" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w2QCKLFelIW7-TGpqTmU-11" value="Thin Bass" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-11" value="Hollow Bass" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="390" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w2QCKLFelIW7-TGpqTmU-12" value="Rolling Bass" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-12" value="Plucky&amp;nbsp;Bass" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="440" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w2QCKLFelIW7-TGpqTmU-13" value="SAW Bass" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w2QCKLFelIW7-TGpqTmU-13" value="Sus Sub Bass" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="490" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
